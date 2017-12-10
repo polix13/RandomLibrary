@@ -5,7 +5,7 @@
 
 Random::Random()
 {
-
+	//something
 }
 
 Random::~Random()
