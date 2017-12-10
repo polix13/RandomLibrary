@@ -84,6 +84,16 @@ public:
 	{
 		return 0.0f;
 	}
+
+	static double Generate(double f, double t)
+	{
+		return 0.0f;
+	}
+
+	static string Generate(char* Array)
+	{
+		return "";
+	}
 };
 
 #endif // #define _RANDOM_H
