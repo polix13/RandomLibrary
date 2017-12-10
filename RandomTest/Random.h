@@ -90,7 +90,13 @@ public:
 		return 0.0f;
 	}
 
-	static string Generate(char* Array)
+	// Some people are using longs for some reason
+	static long Generate(long f, long t)
+	{
+		return 0.0f;
+	}
+
+	static std::string Generate(char* Array)
 	{
 		return "";
 	}
