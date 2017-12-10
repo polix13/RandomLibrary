@@ -5,12 +5,12 @@
 
 Random::Random()
 {
-	//something
+	// construct
 }
 
 Random::~Random()
 {
-
+	// destruct
 }
 
 /*
